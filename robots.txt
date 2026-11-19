@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wizlawz.github.io/lighthouse-motorbicycling/sitemap.xml
